@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Pull') {
             steps {
-                git 'https://github.com/misskecupbung/android-hellotoast.git'
+                git 'https://github.com/ammarun11/android-hellotoast.git'
             }
         }
 
